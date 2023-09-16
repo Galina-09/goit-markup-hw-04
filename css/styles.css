@@ -210,6 +210,11 @@ ul {
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
+.benefits-icons {
+  width: 264px;
+  height: 112px;
+}
+
 .benefits-subtitle {
   color: var(--c-background-hero);
   font-size: 20px;
