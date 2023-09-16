@@ -72,7 +72,7 @@ ul {
 
 .header-link {
   position: relative;
-  color: var(--c-background-hero);
+  color: var(--c-hover);
 }
 
 .header-li-current:after {
