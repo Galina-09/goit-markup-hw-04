@@ -238,8 +238,14 @@ ul {
 }
 
 .benefits-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--c-background-secondary);
   width: 264px;
   height: 112px;
+  border-radius: 4px;
+  margin-bottom: 8px;
 }
 
 .benefits-subtitle {
