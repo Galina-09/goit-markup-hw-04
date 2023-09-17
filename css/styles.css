@@ -72,11 +72,11 @@ ul {
 
 .header-link {
   position: relative;
-  color: var(--c-hover);
+  color: #404bbf;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.header-li-current:after {
+.header-li:after {
   color: var(--c-hover);
   position: absolute;
   content: "";
